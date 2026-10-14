@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "description": "",
+  "name": "ClipForge AI",
+  "description": "AI viral clipping studio for YouTube videos with 9:16 vertical shorts preview, animated dynamic captions, viral score rating, and trending hashtags.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
